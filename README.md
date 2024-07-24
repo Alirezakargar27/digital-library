@@ -23,10 +23,3 @@ Digital Library is a web-based application built using Flask that allows users t
 - **Git**: Version control system.
 - **GitHub**: Hosting the project repository.
 
-## Installation
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/alirezakargar27/new-digital-library.git
-   cd new-digital-library
